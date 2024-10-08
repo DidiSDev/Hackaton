@@ -17,7 +17,7 @@ namespace HakatonFinal
             Dmedia.IsEnabled = true;
             Ddificil.IsEnabled = true;
         }
-
+        //Y
         private void Easy_Click(object sender, RoutedEventArgs e)
         { 
             Window1 window1 = new Window1();

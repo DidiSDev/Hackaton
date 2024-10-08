@@ -28,7 +28,7 @@ namespace hackaton
                     File.WriteAllText("ranking.txt", string.Empty);
                 }
 
-                // LEER RANKING ACTUAL
+                // LEER RANKING ACTUALL
                 string[] lineasExistentes = File.ReadAllLines("ranking.txt");
 
                 using (StreamWriter est = new StreamWriter("temp.txt"))
