@@ -7,8 +7,60 @@
       "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\finalscorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\finalscorewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\finalscorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\finalscorewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\dificultad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\dificultad1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\preguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\dificultad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\dificultad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|c:\\users\\dilia\\hackatonwindows\\hackaton\\hackaton\\dificultad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D90A8A-179E-4F5B-B24B-A651146C91F7}|Hackaton\\Hackaton.csproj|solutionrelative:hackaton\\dificultad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -34,20 +82,174 @@
               "RelativeToolTip": "Hackaton\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-05T08:26:30.807Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window2.xaml",
+              "RelativeDocumentMoniker": "Hackaton\\Window2.xaml",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window2.xaml",
+              "RelativeToolTip": "Hackaton\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T09:59:19.403Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalScoreWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\FinalScoreWindow.xaml",
+              "RelativeDocumentMoniker": "Hackaton\\FinalScoreWindow.xaml",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\FinalScoreWindow.xaml",
+              "RelativeToolTip": "Hackaton\\FinalScoreWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T12:19:50.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window1.xaml",
+              "RelativeDocumentMoniker": "Hackaton\\Window1.xaml",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window1.xaml",
+              "RelativeToolTip": "Hackaton\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T09:52:06.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Hackaton\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\MainWindow.xaml.cs",
               "RelativeToolTip": "Hackaton\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T08:26:30.329Z",
+              "WhenOpened": "2024-10-05T08:26:30.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinalScoreWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\FinalScoreWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hackaton\\FinalScoreWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\FinalScoreWindow.xaml.cs",
+              "RelativeToolTip": "Hackaton\\FinalScoreWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:19:58.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Jugador.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Jugador.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Jugador.cs",
+              "RelativeToolTip": "Hackaton\\Jugador.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:35:25.778Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window3.xaml",
+              "RelativeDocumentMoniker": "Hackaton\\Window3.xaml",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window3.xaml",
+              "RelativeToolTip": "Hackaton\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T09:59:24.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window1.xaml.cs",
+              "RelativeToolTip": "Hackaton\\Window1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:02:07.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window3.xaml.cs",
+              "RelativeToolTip": "Hackaton\\Window3.xaml.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAkwDMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:04:09.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Window2.xaml.cs",
+              "RelativeToolTip": "Hackaton\\Window2.xaml.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAkwCkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:04:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dificultad1.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Dificultad1.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Dificultad1.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Dificultad1.cs",
+              "RelativeToolTip": "Hackaton\\Dificultad1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:51:44.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Preguntas.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Preguntas.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Preguntas.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Preguntas.cs",
+              "RelativeToolTip": "Hackaton\\Preguntas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:51:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dificultad2.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Dificultad2.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Dificultad2.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Dificultad2.cs",
+              "RelativeToolTip": "Hackaton\\Dificultad2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:53:07.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dificultad3.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Dificultad3.cs",
+              "RelativeDocumentMoniker": "Hackaton\\Dificultad3.cs",
+              "ToolTip": "C:\\Users\\dilia\\HackatonWindows\\Hackaton\\Hackaton\\Dificultad3.cs",
+              "RelativeToolTip": "Hackaton\\Dificultad3.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:53:20.842Z"
             }
           ]
         }

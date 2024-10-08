@@ -6,6 +6,29 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>fotos\ico.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="fotos\dificultad1.png" />
+    <None Remove="fotos\dificultad2.png" />
+    <None Remove="fotos\dificultad3.png" />
+    <None Remove="fotos\foto.png" />
+    <None Remove="fotos\fotoMain.jpg" />
+    <None Remove="fotos\imagen.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="fotos\ico.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="fotos\dificultad1.png" />
+    <Resource Include="fotos\dificultad2.png" />
+    <Resource Include="fotos\dificultad3.png" />
+    <Resource Include="fotos\foto.png" />
+    <Resource Include="fotos\fotoMain.jpg" />
+    <Resource Include="fotos\imagen.jpg" />
+  </ItemGroup>
 
 </Project>

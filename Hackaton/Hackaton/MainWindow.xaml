@@ -1,35 +1,140 @@
-﻿<Window x:Class="Hackaton.MainWindow"
+﻿<Window x:Class="HakatonFinal.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Hackaton"
+        xmlns:local="clr-namespace:HakatonFinal"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Initial window" Height="666" Width="1413" WindowState="Maximized"
+        Icon="fotos/imagen.jpg">
+
+    <Window.Background>
+        <ImageBrush ImageSource="fotos/fotoMain.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+
     <Grid>
-        <Menu Localization.Attributes="200" Margin="360,56,353,341">
-            <MenuItem Header="_WELLCOME"
-                      Name="wellcome"
-                      Click="Wellcome_Click">
-                <MenuItem Header="_CHOOSE DIFFICULTY"
-                          Name="difficulty">
-                    <MenuItem Header="_LEVEL 1 (EASY)"
-                              Name="easy"/>
-                    <MenuItem Header="_LEVEL 2 (MEDIUM)"
-                              Name="medium"/>
-                    <MenuItem Header="_LEVEL 3 (HARD)"
-                              Name="hard">
 
-                    </MenuItem>
+        <!-- WELCOME ENTRARÁ GIRANDO DESDE ARRIBA -->
+        <Button x:Name="Welcome" Content="WELCOME!" HorizontalAlignment="Left" Height="141" Margin="682,161,0,0" VerticalAlignment="Top" Width="248" Background="#d9b0f5" FontFamily="Comic Sans MS" FontSize="40">
+            <Button.RenderTransform>
+                <RotateTransform x:Name="WelcomeRotate" />
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="WelcomeRotate" Storyboard.TargetProperty="Angle" From="-360" To="0" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(TranslateTransform.Y)" From="-100" To="0" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
 
+        <!-- START CRECE DESDE SU 10% DE TAMAÑO -->
+        <Button x:Name="Start" Content="Start" HorizontalAlignment="Left" Height="100" Margin="706,327,0,0" VerticalAlignment="Top" Width="200" FontFamily="Comic Sans MS" Background="#8138f9" FontSize="40" Click="Start_Click">
+            <Button.RenderTransform>
+                <ScaleTransform x:Name="StartScale" ScaleX="0.1" ScaleY="0.1" />
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="StartScale" Storyboard.TargetProperty="ScaleX" To="1" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetName="StartScale" Storyboard.TargetProperty="ScaleY" To="1" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
 
+        <!-- EASY SE DESLIZA DESDE IZQ GIRANDO -->
+        <Button x:Name="Dfacil" Content="EASY" Height="102" Width="148" Background="#f5a0a0" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Comic Sans MS" Margin="510,327,0,0" IsEnabled="False" FontSize="20" Click="Easy_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <RotateTransform x:Name="EasyRotate"/>
+                    <TranslateTransform x:Name="EasyTranslate"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="EasyRotate" Storyboard.TargetProperty="Angle" From="-360" To="0" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetName="EasyTranslate" Storyboard.TargetProperty="X" From="-300" To="0" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
 
+        <!-- HARD SE DESLIZ DES DE DERECHA GIRANDO-->
+        <Button x:Name="Ddificil" Content="HARD" Height="101" Width="140" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#f32d2d" FontFamily="Comic Sans MS" Margin="957,326,0,0" IsEnabled="False" FontSize="20" Click="Hard_Click" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <RotateTransform x:Name="HardRotate"/>
+                    <TranslateTransform x:Name="HardTranslate"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="HardRotate" Storyboard.TargetProperty="Angle" From="-360" To="0" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetName="HardTranslate" Storyboard.TargetProperty="X" From="300" To="0" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
 
+        <!-- MODERATE SE DESLIZA DESDE ABAJO HACIENDO ZOOM -->
+        <Button x:Name="Dmedia" Content="MODERATE" Height="102" Width="148" Background="#f35656" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Comic Sans MS" Margin="732,479,0,0" IsEnabled="False" FontSize="20" Click="Medium_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform x:Name="MediumScale" ScaleX="0.1" ScaleY="0.1"/>
+                    <TranslateTransform x:Name="MediumTranslate"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="MediumScale" Storyboard.TargetProperty="ScaleX" To="1" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetName="MediumScale" Storyboard.TargetProperty="ScaleY" To="1" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetName="MediumTranslate" Storyboard.TargetProperty="Y" From="300" To="0" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
 
-                </MenuItem>
-            </MenuItem>
+        <!-- CERRAR CON MISMO EFECTO QUE START -->
+        <Button x:Name="Cerrar" Content="Exit" HorizontalAlignment="Left" Height="100" Margin="706,592,0,0" VerticalAlignment="Top" Width="200" FontFamily="Comic Sans MS" Background="#8138f9" FontSize="40" Click="Exit_Click" >
+            <Button.RenderTransform>
+                <ScaleTransform x:Name="CloseScale" ScaleX="0.1" ScaleY="0.1" />
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetName="CloseScale" Storyboard.TargetProperty="ScaleX" To="1" Duration="0:0:1"/>
+                            <DoubleAnimation Storyboard.TargetName="CloseScale" Storyboard.TargetProperty="ScaleY" To="1" Duration="0:0:1"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
 
-        </Menu>
-
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="538,405,0,0" TextWrapping="Wrap" Text="+10 points each " VerticalAlignment="Top" Width="92"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="982,403,0,0" TextWrapping="Wrap" Text="+30 points each" VerticalAlignment="Top" Width="90"/>
+        <TextBlock HorizontalAlignment="Left" Height="22" Margin="761,559,0,0" TextWrapping="Wrap" Text="+20 points each" VerticalAlignment="Top" Width="90"/>
+        <Border x:Name="ImageBorder" Background="LightGray" CornerRadius="15" BorderBrush="DarkBlue" BorderThickness="2" Padding="10" 
+                Width="300" Height="200" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10,70,20,20">
+            <Border.RenderTransform>
+                <TranslateTransform />
+            </Border.RenderTransform>
+            <Image Source="fotos/imagen.jpg" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Margin="-2,-2,-2,-2"/>
+        </Border>
     </Grid>
 </Window>

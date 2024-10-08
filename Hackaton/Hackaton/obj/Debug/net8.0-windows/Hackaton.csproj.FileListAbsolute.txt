@@ -18,4 +18,13 @@ C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\refint
 C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Hackaton.pdb
 C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Hackaton.genruntimeconfig.cache
 C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\ref\Hackaton.dll
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Window2.g.cs
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Window3.g.cs
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Window2.baml
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Window3.baml
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\FinalScoreWindow.g.cs
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\FinalScoreWindow.baml
 C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Hackaton_MarkupCompile.lref
+C:\Users\dilia\HackatonWindows\Hackaton\Hackaton\obj\Debug\net8.0-windows\Hackaton_Content.g.cs
